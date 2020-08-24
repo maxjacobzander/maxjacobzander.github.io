@@ -1,11 +1,11 @@
 # Site settings
 author: Max Zander
-title: 
+title: From Stage to Screen
 header-img: img/home-bg.png
 email: maxjacobzander@gmail.com
 copyright_name: Max Zander
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Adventures in Coding from An Operatic Character Tenor
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  maxjacobzander
