@@ -20,4 +20,4 @@ Overall, this was a really fun experience and I have loved getting to know the S
 Should you be a musician (or otherwise) interested in trying out or using the Bravo Personal Score Library Catalogue, you can do so by cloning the repo at: [https://github.com/maxjacobzander/bravo_score_library](http://)
 
 (And for fun and good measure, here is a photo of me and my partner, Ashley with the scores for *Hansel and Gretel* (the aforementioned filmed opera) and in costume, on location as Hansel (Ashley) and the Witch (me)! Enjoy!)
-![](https://drive.google.com/file/d/14mbCSf5uynrT1N54XnPzTh0fOkuMq4Of/view?usp=sharing)
+![](https://imgur.com/a/uon4wPg)
