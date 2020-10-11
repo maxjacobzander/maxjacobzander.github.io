@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Making Worlds Collide"
-date:       2020-10-11 14:44:33 +0000
+date:       2020-10-11 10:44:34 -0400
 permalink:  making_worlds_collide
 ---
 
