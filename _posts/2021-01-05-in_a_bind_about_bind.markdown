@@ -53,7 +53,8 @@ Now, looking at the event listener in that `for` loop, you might be wondering wh
             else { 
                 event.target.style.color = "red";
             }
-    }```
+    }
+```
 
 
 Take this example:
