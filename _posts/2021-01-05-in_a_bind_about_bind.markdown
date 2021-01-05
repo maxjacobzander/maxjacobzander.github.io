@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "In A Bind About `bind()`?"
-date:       2021-01-05 19:13:05 +0000
+date:       2021-01-05 14:13:06 -0500
 permalink:  in_a_bind_about_bind
 ---
 
