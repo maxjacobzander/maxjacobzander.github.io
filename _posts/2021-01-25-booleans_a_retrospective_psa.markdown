@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Booleans: A Retrospective PSA"
-date:       2021-01-25 17:50:23 +0000
+date:       2021-01-25 12:50:24 -0500
 permalink:  booleans_a_retrospective_psa
 ---
 
@@ -15,4 +15,4 @@ When we first learned about Booleans way back when, I had a pretty big problem. 
 Yeah. Ok so maybe you got it right. But maybe you’re one of many that sounded it out the way I did: Boo-leen. Nowhere in any readings or blog posts or the like did anyone make clear how to say the word. And prior to being corrected, I had turned it into a song to help me study… I have since done a little updating to reflect some newer knowledge (including the proper pronunciation) and, to commemorate reaching the end of my program, I figured I’d share it with you all. Enjoy.
 
 
-https://youtu.be/eX8RvKoHvus
+[https://youtu.be/eX8RvKoHvus](http://)
